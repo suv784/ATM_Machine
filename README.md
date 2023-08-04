@@ -25,6 +25,7 @@ This project not only showcases my technical prowess in software development but
 Feel free to customize the description according to your specific contributions and experiences in the project.
 
 
+![Screenshot 2023-08-04 231814](https://github.com/suv784/ATM_Machine/assets/140892164/1cc1194f-b3a3-42af-9a72-c3c6966f79b8)
 
 
 
